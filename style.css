@@ -1,0 +1,29 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+input{
+  font-size: 25px;
+  width: 25%;
+  border: 1px solid black;
+  outline: none;
+}
+
+form label{
+  font-size: 25px;
+}
+
+#subm{
+  position: absolute;
+  margin-top: -69px;
+  margin-left: 750px;
+}
+
+#display{
+  text-transform: capitalize;
+}
+
+#formh{
+  margin-left: 355px;
+}
